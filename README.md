@@ -1,7 +1,7 @@
 # algorithmsImplementation
 
 -- Sort algorithm --
-1. Bubble sort (time complexity :  space complexity : ) 
+1. Bubble sort (time complexity : O(n2)  space complexity : O(1)) 
 2. Selection Sort (time complexity :  space complexity : ) 
 3. Insertion Sort (time complexity :  space complexity : ) 
 
