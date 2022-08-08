@@ -9,3 +9,9 @@
 
 ** New one upcoming!
 ![image](https://user-images.githubusercontent.com/96929412/182003364-8d4ceb63-3a4a-42e4-b48d-dec920891bf6.png)
+
+Markdownify
+A minimal Markdown Editor desktop app built on top of Electron.
+Gitter   
+
+Key Features • How To Use • Download • Credits • Related • License
