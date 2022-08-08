@@ -1,4 +1,4 @@
-# algorithmsImplementation
+# algorithms Implementation
 
 -- Sort algorithm --
 1. Bubble sort 
