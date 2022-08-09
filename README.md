@@ -10,7 +10,7 @@ Track of my Algorithms learning journey 📝
 
 - Insertion Sort
 
-- Merge Sort
+- Merge Sort (Ascending & descending)
 
 - Quick Sort
 ## Language used
