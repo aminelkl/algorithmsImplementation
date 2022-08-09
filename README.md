@@ -2,7 +2,7 @@
 # Algorithms library
 Track of my Algorithms learning journey 📝
 
-**Sort algorithm**
+***Sort algorithm***
 
  - Bubble sort
 
