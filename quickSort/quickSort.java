@@ -1,6 +1,12 @@
+import java.util.Arrays;
+
 public static void main(String[] args) {
 
-		int[] array = {3, 2, 56, 34, 23, 7, 0, -1, 23, 34};
+		int[] array = new int[100];
+	
+		for (int i = 0 ; i < array.length ; i++) {
+			array[i] = (int) (Math.random() * 100);
+		}
 	
 		System.out.println("Unsorted : " + Arrays.toString(array));
 		
