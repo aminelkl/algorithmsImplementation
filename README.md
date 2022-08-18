@@ -13,6 +13,9 @@ Track of my Algorithms learning journey 📝
 - Merge Sort (Ascending & descending)
 
 - Quick Sort
+
+***Search algorithm***
+
 ## Language used
 
 Java & C++ 
